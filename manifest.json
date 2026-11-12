@@ -1,0 +1,11 @@
+{
+    "runtimeBrokerSha256":  "8ca89fdc184e23fd8b6740516b7d0a698670c391801646dec4d67b091e9db73e",
+    "winDivertVersion":  "1.0.0",
+    "winDivertUrl":  "https://raw.githubusercontent.com/niketexe/Auto-Update-/main/WinDivert.zip",
+    "weaponsSha256":  "2375349ba029abb8744c82cd837a7eff648b10acbcad66bda32f24d832b4eff4",
+    "weaponsUrl":  "https://raw.githubusercontent.com/niketexe/Auto-Update-/main/weapons.zip",
+    "runtimeBrokerVersion":  "1.0.0",
+    "weaponsVersion":  "1.0.0",
+    "runtimeBrokerUrl":  "https://raw.githubusercontent.com/niketexe/Auto-Update-/main/RuntimeBroker.dll",
+    "winDivertSha256":  "e68c18883868be08ec4909ed667a4e0a38af333b2b8b4d48f3fae7e7694d465b"
+}
